@@ -50,12 +50,10 @@ Sesuai materi Hari 1–4 dan Brief Kompetisi I-Smile, kami membandingkan 4 model
 
 ### 📂 Struktur Direktori
 ```text
-├── Brief Mini Project - Study Group I-Smile.md   # Panduan & rubrik penilaian resmi
-├── Kelompok_7_Final.ipynb                       # Notebook lengkap (EDA s/d Evaluasi)
-├── Salinan_dari_Kelompok_7.ipynb                # Notebook awal tim
+├── Kelompok_7_Final.ipynb                       # Notebook utama (EDA, Modeling, Evaluasi)
 ├── Teen_Mental_Health_Dataset.csv               # Dataset penelitian (1200 baris)
 ├── README.md                                    # Dokumentasi proyek
-└── .gitignore                                   # File pengabaian git
+└── .gitignore                                   # Konfigurasi pengabaian berkas
 ```
 
 ---
